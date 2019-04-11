@@ -1,0 +1,33 @@
+{
+  "name": "Victoria_Bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "rupture": "^0.7.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-sourcemaps-support": "0.0.1",
+    "gulp-stylus": "^2.7.0",
+    "gulp-watch": "^5.0.1",
+    "rename": "^1.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phill99ultra/Victoria_Bank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phill99ultra/Victoria_Bank/issues"
+  },
+  "homepage": "https://github.com/phill99ultra/Victoria_Bank#readme"
+}
